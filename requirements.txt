@@ -9,5 +9,3 @@ a2wsgi==1.10.6
 markdown
 httpx
 requests
-bs4
-google_auth
